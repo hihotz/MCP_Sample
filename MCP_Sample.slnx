@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MCP_Sample.AppHost/MCP_Sample.AppHost.csproj" />
+  <Project Path="MCP_Sample.ServiceDefaults/MCP_Sample.ServiceDefaults.csproj" />
+  <Project Path="MCP_Sample/MCP_Sample.csproj" />
+</Solution>
