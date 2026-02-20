@@ -10,9 +10,9 @@ C# ASP.NET Core로 만드는 MCP Sample
 VS Code 사용 시 터미널에 아래 명령어 입력
 
 ```bash
-// 경로 지정이 안된 경우,
+# 경로 지정이 안된 경우,
 cd 프로젝트 경로
 
-// 프로젝트 시작 (Aspire 프로젝트 시작)
+# 프로젝트 시작 (Aspire 프로젝트 시작)
 dotnet run --project MCP_Sample.AppHost
 ```
