@@ -16,3 +16,8 @@ cd 프로젝트 경로
 # 프로젝트 시작 (Aspire 프로젝트 시작)
 dotnet run --project MCP_Sample.AppHost
 ```
+
+## 라이선스
+
+- 프로젝트 라이선스: [MIT](./LICENSE)
+- 서드파티 패키지 고지: [THIRD-PARTY-NOTICES](./THIRD-PARTY-NOTICES.md)
